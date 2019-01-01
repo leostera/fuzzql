@@ -43,7 +43,7 @@ We should see a random person generated:
 
 ## Notes and Doodles
 
-#### What would it take to read a .graphql file and generate the rest?
+#### What would it take to read a .graphql file and generate the emulator?
 
 `schema.graphql => native graphql api (- the transport)`
 
