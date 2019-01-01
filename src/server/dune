@@ -1,0 +1,7 @@
+(library
+  (name server)
+  (libraries
+    lwt lwt.unix
+    graphql graphql-lwt
+    httpaf httpaf-lwt
+    logs logs.lwt fmt))

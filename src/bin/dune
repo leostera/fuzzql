@@ -1,0 +1,6 @@
+(executable
+  (name Main)
+  (public_name mcu_server)
+  (libraries
+    graphql schema server
+    logs logs.fmt fmt fmt.tty))

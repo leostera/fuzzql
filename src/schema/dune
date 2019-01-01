@@ -1,0 +1,3 @@
+(library
+  (name schema)
+  (libraries graphql qcheck))
